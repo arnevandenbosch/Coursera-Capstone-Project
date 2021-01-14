@@ -1,1 +1,1 @@
-# Coursera-Capstone-Project
+# Coursera-IBM-Final-Project-Classification
