@@ -1,5 +1,5 @@
 # Coursera course IBM Data Science Professional Certificate Course
-# Segmenting and Clustering Neighbourhoods in Toronto City
+## Segmenting and Clustering Neighbourhoods in Toronto City
 
 In this assignment, you will be required to explore, segment, and cluster the neighborhoods in the city of Toronto. However, unlike New York, the neighborhood data is not readily available on the internet. What is interesting about the field of data science is that each project can be challenging in its unique way, so you need to learn to be agile and refine the skill to learn new libraries and tools quickly depending on the project.
 
